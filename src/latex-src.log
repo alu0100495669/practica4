@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.1.15)  8 MAR 2013 12:41
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.1.15)  8 MAR 2013 13:44
 entering extended mode
  %&-line parsing enabled.
 **latex-src.tex
@@ -312,16 +312,31 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 15.
 
 (/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [1
+)
+File: imagen1.ps Graphic file (type eps)
+ <imagen1.ps> [1
 
-] (./latex-src.aux) ) 
+] [2]
+Overfull \hbox (1.6626pt too wide) in paragraph at lines 61--65
+\OT1/cmr/m/n/12 cuales no se pueden uti-lizar di-rec-ta-mente, es de-cir pal-ab
+ras propias del lengua-
+ []
+
+[3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 71.
+ [4] (./latex-src.aux) ) 
 Here is how much of TeX's memory you used:
- 1354 strings out of 495062
- 15732 string characters out of 1182644
- 69827 words of memory out of 3000000
- 4565 multiletter control sequences out of 15000+50000
- 5864 words of font info for 22 fonts, out of 3000000 for 9000
+ 1387 strings out of 495062
+ 16123 string characters out of 1182644
+ 70827 words of memory out of 3000000
+ 4589 multiletter control sequences out of 15000+50000
+ 9215 words of font info for 33 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  25i,11n,27p,242b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on latex-src.dvi (1 page, 1924 bytes).
+Output written on latex-src.dvi (4 pages, 7872 bytes).

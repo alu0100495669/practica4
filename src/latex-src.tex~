@@ -21,3 +21,50 @@
   entre un amplio sector científico y técnico, hasta el punto de convertirse en uso obligado en comunicaciones
   y congresos, y requerido por determinadas revistas a la hora de entregar artículos académicos.
 \end{abstract}
+
+\includegraphics[width=0.5\textwidth]{imagen1.ps}
+
+\section{Algo de historia}
+Hablar de LaTeX en si es hablar del software libre y su idea principal que se puede modificar el software 
+para adaptarlo a diferentes medios de trabajo y circunstancias.Pues bien fue Donald E. Knuth el creador de TeX,
+lo que serviría de base a Leslie Lamport en 1984 para iniciar el trabajo de crear LaTeX, una serie de datos
+que permitía utilizar de forma mas comoda la tipografia de Donald E. knuth llamada Tex; haciendo un parentesis
+a Donald E. Knuth no le gustaba la tipografia que se presentaba en los volúmenes I, II, III de su obra.
+El arte de programar ordenadores.En el tipio impulso de un hacker empezo a diseñar la tipografia Tex, 
+lo cual empezo en 1978 pensando Donald en terminarla el mismo año, pero esto tardo 8 años cuando concluye 
+en el año de 1985 lo cual no ha dado mas cambios sustanciales de version, la cual se quedo en la version 3
+y cada nuevo cambio se hace en decimal. Por lo que la versión actual es la 3.1459 y Donald E Knuth a dicho
+que la ultima modificación sera  una despues de su muerte, considerandose el programa concluido y todos los
+bugs que se quedaran seran considerados como típicos del programa. Tex como se ha dicho es una tipografia 
+muy estable y versatil, pero no incluye la mayoria de las lenguas conocidas con todo y sus caracteres adicionales,
+al ser un codigo abierto este se puede modificar y para evitar que las modificaciones de Tex en diferentes idiomas
+llevaran al lenguaje tipografico a una sima y fracmentacion del mismo Leslie Lamport desde 1984 implemento algunas
+macros de TeX; siendo conocidas despues como LaTeX.
+\subsection{Trabajo de Lamport}
+El trabajo de Lamport  no ha parado en eso en 1989 Lamprot y otros desarrolladores iniciaron el "Proyecto "LaTeX3" 
+que es una reestandarización completa de LaTeX, mediante una nueva versión que incluía la mayor parte de las 
+extensiones adicionales que  se han estado haciendo con el tiempo; Este trabajo lo realizo Frank Mittlebach, 
+Johannes Braams, Chris Rowley y Sebastian Rahtz junto con el propio Lesli Lamport hasta alcanzar el objetivo final
+en el "Proyecto 3"  por lo que es actualmente conocido como LaTeX23 (o sea, "versión 2 y un poco más...").
+Actualmente cada año se ofrece una versión nueva, aunque las diferencias son las minimas.
+
+\section{Estructura interna}
+Por otra parte la estructura interna del programa requiere de más detalles. Presentaremos algunos de las instrucciones
+(etiquetas) que se deben de utilizar a la hora de formatear documentos elaborados en “LaTeX”. Proseguiremos
+a mostrar la funcionalidad de las etiquetas más utilizadas para la elaboración del cuerpo de este tipo de
+documento. Entre las etiquetas tenemos las siguientes: idioma, caracteres, párrafos.
+\subsection{Idioma}
+La configuración del idioma es muy importante. Por ejemplo, este tipo de documentos no aceptan la incorporación
+de tildes ni de la “ñ”. Lo anterior es muy fácil de solucionar, con la debida configuración, podemos hacer que el
+programa incorpore dichos símbolos sin muchos problemas.
+\subsection{Caracteres}
+Como todos los lenguajes, este tiene algunos caracteres especiales, los cuales no se pueden utilizar directamente,
+es decir palabras propias del lenguaje. Mediante el correcto llamado se pueden utilizar sin ningún problema. Además
+de soportar variados tipos, estilos y tamaños de letras. Esto permite crear documentos en los cuales se puede, tanto
+diferenciar aspectos, como resaltarlos.
+\subsection{Párrafos}
+ Para el manejo de textos de contenidos extensos,este permite enmarcar diferencias que otros lenguajes no realizan.
+Algunas de ellas son: alinear el texto, resaltar mediante el uso de cajas de textos, manejo de columnas, numeración,
+etc.
+
+\end{document}
